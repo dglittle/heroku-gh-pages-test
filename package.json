@@ -1,0 +1,9 @@
+{
+  "name": "untitled",
+  "description": "nondescript",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "gl519": "git://github.com/dglittle/gl519.git#gh-pages"
+  }
+}
